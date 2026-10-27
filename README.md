@@ -25,19 +25,6 @@ Languages :
 
 ---
 
-### Education
-
-**DEC in Computer Science Technology, Software Engineering profile** — Collège de Bois-de-Boulogne *Autumn 2024 – Winter 2028 (Expected)*
-
-Relevant Coursework: Object-Oriented Programming,Database Systems, Software Engineering, Application Security,Game simulation and development, Software Development Project, Mobile Applications.
-
 **Certification** — Cisco Networking Academy, *CCNA: Introduction to Networks* (29 August 2025)
 
 ---
-
-### Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-camille--phan--0a6873369-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/camille-phan-0a6873369/)
-[![Email](https://img.shields.io/badge/Email-camille.phantt%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:camille.thimytam.phan@gmail.com)
-
-I am open for software development, web, mobile, and back-end internships in the Montreal area!
