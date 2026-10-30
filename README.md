@@ -7,13 +7,6 @@ Languages :
 `English (Fluent)` · `French (Fluent)` · `Vietnamese (Native)`
 
 ---
-### What I'm Working On Right Now
-
-- **Vietnamese Food Culture:** A dynamic, interactive web application bringing the history, philosophy, and flavors of Vietnamese gastronomy to life through engaging modules, interactive puzzles, and ingredient discovery.
-
-- -> Check it out : https://github.com/Mimiyxs/VietnameseFoodCulture
-
----
 
 ### Technologies & Languages
 
