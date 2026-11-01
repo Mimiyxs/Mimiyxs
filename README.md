@@ -7,7 +7,19 @@ Languages :
 `English (Fluent)` · `French (Fluent)` · `Vietnamese (Native)`
 
 ---
+### Check Out My Portfolio
 
+Explore my personal portfolio to discover my projects, technical skills, experience, and journey as a software engineering student.
+
+**[Visit My Portfolio](https://mimiyxs.github.io/)**
+
+---
+### What I'm Currently Working On
+
+- 🎮 Developing a 3D Metroidvania platformer using Unity.
+- 💻 Improving my skills in web development and software engineering.
+
+---
 ### Technologies & Languages
 
 **Programming Languages**
