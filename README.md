@@ -5,14 +5,6 @@ Software Engineering Student passionate about mobile app development, systems pr
 ---
 Languages : 
 `English (Fluent)` · `French (Fluent)` · `Vietnamese (Native)`
-
----
-### Check Out My Portfolio
-
-Explore my personal portfolio to discover my projects, technical skills, experience, and journey as a software engineering student.
-
-**[Visit My Portfolio](https://mimiyxs.github.io/)**
-
 ---
 ### What I'm Currently Working On
 
